@@ -8,3 +8,7 @@ Component has been tested using Jest and enzyme.
 Main app:
 Created with create-react-app, renders three checkbox.
 
+Commands:
+npm install - install dependencies
+npm start - Runs the web app in dev mode
+npm test - Run tests
